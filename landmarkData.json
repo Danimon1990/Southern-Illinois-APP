@@ -1,0 +1,146 @@
+[
+    {
+        "name": "Garden of the Gods",
+        "category": "Rivers",
+        "city": "Twentynine Palms",
+        "state": "Southern Illinois",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Joshua Tree National Park",
+        "coordinates": {
+            "longitude": -88.38443813743497,
+            "latitude": 37.60478504662771
+        },
+        "description": "This iconic area features several interconnected trails, with the centerpiece being the rock formations known as the Garden of the Gods. The most popular trail is the Garden of the Gods Observation Trail, an easy 0.5-mile loop that provides stunning views of the unique sandstone formations.",
+        "imageName": "gardenofthegods"
+    },
+    {
+        "name": "Cache River State",
+        "category": "Lakes",
+        "city": "Port Alsworth",
+        "state": "Southern Illinois",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Lake Clark National Park and Preserve",
+        "coordinates": {
+            "longitude": -152.665167,
+            "latitude": 59.980167
+        },
+        "description": "This 7-mile loop trail can be shortened to various lengths. It offers a unique experience, making you feel like you're in a Louisiana cypress swamp. The trail features elevated walkways through wetlands, providing opportunities to observe diverse wildlife.",
+        "imageName": "silversalmoncreek"
+    },
+    {
+        "name": "Panther Den Loop",
+        "category": "Mountains",
+        "city": "Skagway",
+        "state": "Southern Illinois",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": true,
+        "park": "Klondike Gold Rush National Historical Park",
+        "coordinates": {
+            "longitude": -135.334571,
+            "latitude": 59.560551
+        },
+        "description": "Located south of Carbondale near Devil's Kitchen Lake, this hidden gem is popular among locals. The trail offers views of wildflowers, rock outcroppings, and abundant wildlife. It's approximately 3 miles long with an elevation change of about 160 feet.",
+        "imageName": "chilkoottrail"
+    },
+    {
+        "name": "Little Grand Canyon",
+        "category": "Lakes",
+        "city": "Browning",
+        "state": "Southern Illinois",
+        "id": 1004,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Glacier National Park",
+        "coordinates": {
+            "longitude": -113.536248,
+            "latitude": 48.69423
+        },
+        "description": "This 3-mile loop trail in Shawnee National Forest is considered moderate to strenuous. The highlight is descending into and climbing through the canyon, offering a diverse and challenging hiking experience.",
+        "imageName": "littlegrandcanyon"
+    },
+    {
+        "name": "Rim Rock Trail",
+        "category": "Lakes",
+        "city": "Twin Lakes",
+        "state": "Southern Illinois",
+        "id": 1005,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Lake Clark National Park and Preserve",
+        "coordinates": {
+            "longitude": -153.849883,
+            "latitude": 60.641684
+        },
+        "description": "Located in Shawnee National Forest, this 1.7-mile loop trail is moderately rugged and features high bluffs, waterfalls, natural shelters, scenic creeks, and even a Native American rock wall. It also provides access to Pounds Hollow beach.",
+        "imageName": "twinlake"
+    },
+    {
+        "name": "Ferne Clyffe Waterfall",
+        "category": "Rivers",
+        "city": "Eaking",
+        "state": "Southern Illinois",
+        "id": 1007,
+        "isFeatured": true,
+        "isFavorite": false,
+        "park": "Charley Rivers National Preserve",
+        "coordinates": {
+            "longitude": -143.122586,
+            "latitude": 65.350021
+        },
+        "description": "This easy 1.3-mile out-and-back trail in Ferne Clyffe State Park leads to a beautiful waterfall. It's family-friendly and perfect for a picnic, with benches along the trail.",
+        "imageName": "charleyrivers"
+    },
+    {
+        "name": "Red Cedar Trail at Giant City",
+        "category": "Mountains",
+        "city": "Icy Bay",
+        "state": "Southern Illinois",
+        "id": 1008,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Wrangell-St. Elias National Park and Preserve",
+        "coordinates": {
+            "longitude": -141.518167,
+            "latitude": 60.089917
+        },
+        "description": "For more experienced hikers, this 12-mile loop trail is one of the most challenging in the area. It features massive rock outcroppings, deep forests, small waterfalls, and diverse terrain. It's often used for backpacking or multi-day hikes.",
+        "imageName": "icybay"
+    },
+    {
+        "name": "North Cedar Lake Trail",
+        "category": "Lakes",
+        "city": "Willow",
+        "state": "Alaska",
+        "id": 1009,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "State Recreation Area",
+        "coordinates": {
+            "longitude": -150.086103,
+            "latitude": 61.694334
+        },
+        "description": "SThis trail near Carbondale is approximately 9.7 km long and has the most elevation gain (132 m) of all trails in the immediate area.",
+        "imageName": "rainbowlake"
+    },
+    {
+        "name": "Hidden Lake",
+        "category": "Lakes",
+        "city": "Newhalem",
+        "state": "Washington",
+        "id": 1010,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "North Cascades National Park",
+        "coordinates": {
+            "longitude": -121.17799,
+            "latitude": 48.495442
+        },
+        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
+        "imageName": "hiddenlake"
+    }
+]
